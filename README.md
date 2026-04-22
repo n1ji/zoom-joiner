@@ -9,7 +9,7 @@ if you are a teacher then you can customize the links in the links.txt file and 
 that customized file to your class, all they need to do is interchange the file and
 it will be working fine.
 
-if something does not work or some problems arise write them into this scripts
-GitHub: https://github.com/plaui228/zoom-joiner/tree/main
+if something does not work or some problems arise write them into issues tab on 
+GitHub: https://github.com/plaui228/zoom-joiner/issues
 
 made by Plaui
