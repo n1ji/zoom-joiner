@@ -39,10 +39,10 @@ Fill in `links.txt` with your class links and send the file to your students. Th
 
 ## Issues
 
-Something not working? Open an [issue](https://github.com/plaui228/zoom-joiner/issues).
+Something not working? Open an [issue](https://github.com/n1ji/zoom-joiner/issues).
 
 ## License
 
 GPL-3.0, see [LICENSE](LICENSE).
 
-Made by Plaui.
+Made by n1ji (plaui).
